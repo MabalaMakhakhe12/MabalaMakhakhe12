@@ -2,10 +2,10 @@
 ***
 🚀 About Me
 ***
-🌱 I have graduated from university with a bachelor's degree in software development. 
-🏗️ My expertise lies in C#, where I specialize in creating applications .NET including desktop or web applications. 
-💻In addition to my C# proficiency, I bring substantial hands-on experience with Kotlin
-🌱As part of my ongoing commitment to professional growth, I am actively expanding my skill set by diving into web development through JavaScript and HTML/CSS.
+* 🌱 I have graduated from university with a bachelor's degree in software development. 
+* 🏗️ My expertise lies in C#, where I specialize in creating applications .NET including desktop or web applications. 
+* 💻In addition to my C# proficiency, I bring substantial hands-on experience with Kotlin
+* 🌱As part of my ongoing commitment to professional growth, I am actively expanding my skill set by diving into web development through JavaScript and HTML/CSS.
 
 🧰 Languages and Tools
 ***

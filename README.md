@@ -26,7 +26,7 @@
 
 ***
 📚 Projects
-
+***
 OviCite (Kotlin & C#)
 ***
 * An application developed for a non-profit organisation to allow the organisation to manage its beneficiaries 

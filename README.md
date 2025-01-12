@@ -7,6 +7,29 @@ In addition to my C# proficiency, I bring substantial hands-on experience with K
 As part of my ongoing commitment to professional growth, I am actively expanding my skill set by diving into web development through JavaScript and HTML/CSS.
 <!--
 **MabalaMakhakhe12/MabalaMakhakhe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Languages and Tools
+Java
+
+Git
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+NodeJS
+
+C#
+
+GitHub
+
+Bash
+
+Bash
+
 
 Here are some ideas to get you started:
 

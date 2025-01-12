@@ -22,6 +22,16 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <br />
 
+📚 Projects
+***
+OviCite (Kotlin & C#)
+***
+* An application developed for a non-profit organisation to allow the organisation to manage its beneficiaries 
+as well as provide them with resources ranging from educational resources to job opportunities. The application also
+allows users to register for courses and earn points which they can use to purchase items in the shop. This is the
+mobile app that basic users and beneficiaries can use.
+* The C# desktop app is an administrator application that allows the organisation to modify what users see on the 
+mobile app seamlessly so they can provide real-time updates as well as notifications for the users.
 <!--
 **MabalaMakhakhe12/MabalaMakhakhe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,28 +5,7 @@ I am a highly motivated and dedicated software developer with a recent bachelor'
 In addition to my C# proficiency, I bring substantial hands-on experience with Kotlin, particularly in crafting intuitive user interfaces using both traditional Views and the modern Jetpack Compose framework. I am also proficient in the backend making my knowledge full-stack
 
 As part of my ongoing commitment to professional growth, I am actively expanding my skill set by diving into web development through JavaScript and HTML/CSS.
-🧰 Languages and Tools
-Java
 
-Git
-
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-NodeJS
-
-C#
-
-GitHub
-
-Bash
-
-Bash
 
 
 <!--
